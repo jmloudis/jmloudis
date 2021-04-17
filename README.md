@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @jmloudis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-    Email: 16jloudis@gmail.com
+- 👀 I’m interested in - Application & Software developement
+- 🌱 I’m currently learning - IST: Design & Developement
+- 💞️ I’m looking to collaborate on - Open to ideas!
+- 📫 How to reach me - Email: 16jloudis@gmail.com
     
 
 <!---
