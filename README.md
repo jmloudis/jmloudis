@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmloudis
-- 👀 I’m interested in - Application & Software developement
+- 👀 I’m interested in - Application & Software developement, Information Technology & Systems
 - 🌱 I’m currently learning - IST: Design & Developement
 - 💞️ I’m looking to collaborate on - Open to ideas!
 - 📫 How to reach me - Email: 16jloudis@gmail.com
