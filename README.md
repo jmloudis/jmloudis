@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jordan,
+- 👋 Hi, I’m Jordan Loudis!
 - 🏫 Penn State University 2021 Graduate - B.S. in Information Systems: Design and Development
 
 - 👀 I’m interested in - Software Development, Computer Programming and Engineering. 
