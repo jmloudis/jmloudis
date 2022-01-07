@@ -8,7 +8,8 @@
 - 💻 LeetCode Profile: https://leetcode.com/jmloudis/
     
 # Github Stats:
-[![jmloudis's github activity graph](https://activity-graph.herokuapp.com/graph?username=jmloudis&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![jmloudis's Github stats](https://github-readme-stats.vercel.app/api?username=jmloudis&show_icons=true&theme=algolia)
+[![jmloudis's Github activity graph](https://activity-graph.herokuapp.com/graph?username=jmloudis&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 jmloudis/jmloudis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
