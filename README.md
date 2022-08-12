@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in - Fullstack Development, Computer Programming and Software Engineering. 
 - 🌱 I’m currently learning - JavaScript, TypeScript, Solidity, Swift, C++ and C#
-- 💞️ I’m looking to collaborate on - Open to ideas!
 - 📫 How to reach me - Email: 16jloudis@gmail.com
 - 🖱️ Hackerrank Profile: https://www.hackerrank.com/16jloudis
 - 💻 LeetCode Profile: https://leetcode.com/jmloudis/
