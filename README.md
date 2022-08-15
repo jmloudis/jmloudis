@@ -6,7 +6,7 @@
 - 📫 How to reach me - Email: 16jloudis@gmail.com
 - 🖱️ Hackerrank Profile: https://www.hackerrank.com/16jloudis
 - 💻 LeetCode Profile: https://leetcode.com/jmloudis/
-- 🖥️ Portfolio Website: https://jordanloudis.com
+- 🖥️ Portfolio Website: https://www.jordanloudis.com
     
 # Github Stats:
 ![jmloudis's Github stats](https://github-readme-stats.vercel.app/api?username=jmloudis&show_icons=true&theme=algolia&line_height=20)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmloudis&layout=compact&theme=algolia&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
