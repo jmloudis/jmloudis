@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan Loudis!
 - 🏫 Penn State University 2021 Graduate - B.S. in Information Systems: Design and Development
-- 📫 How to reach me - Email: 16jloudis@gmail.com
+- 📫 Email: 16jloudis@gmail.com
 - 🖱️ Hackerrank Profile: https://www.hackerrank.com/16jloudis
 - 💻 LeetCode Profile: https://leetcode.com/jmloudis/
 - 🖥️ Portfolio Website: https://www.jordanloudis.com
