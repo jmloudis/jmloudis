@@ -4,6 +4,7 @@
 - 🖱️ Hackerrank Profile: https://www.hackerrank.com/16jloudis
 - 💻 LeetCode Profile: https://leetcode.com/jmloudis/
 - 🖥️ Portfolio Website: https://www.jordanloudis.com
+- 🫂 Main Contributions: github-readme-activity-graph 
     
 # Github Stats:
 [![Jmloudis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmloudis&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
