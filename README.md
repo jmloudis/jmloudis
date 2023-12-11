@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jordan Loudis!
+- 👋 Hi, I’m Jordan Loudis!  
 - 🏫 Penn State University 2021 Graduate - B.S. in Information Systems: Design and Development
 - 🧑‍💼 Software Engineer @ Comcast
 - 🖱️ Hackerrank Profile: https://www.hackerrank.com/16jloudis
