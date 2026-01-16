@@ -28,16 +28,23 @@
 </p>
 </div>
 
+
+
+---
+### Main Projects and Contributions:
+ - 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
+ - 📽️ Main Projects: 
+
 ---
 ### :fire: My GitHub Stats:
 <div align="center">
   <p>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img alt="Jmloudis's github activity graph"
-           src="https://github-readme-activity-graph.cyclic.app/graph?username=jmloudis&theme=react-dark&hide_border=true" />
+           src="https://github-readme-activity-graph.vercel.app/graph?username=jmloudis&theme=react-dark&hide_border=true&height=300" />
     </a>
   </p>
-  <p>
+  <!-- <p>
     <img alt="jmloudis's Github stats"
          src="https://github-readme-stats.vercel.app/api?username=jmloudis&show_icons=true&theme=algolia&line_height=20" />
   </p>
@@ -46,7 +53,7 @@
       <img alt="Top Langs"
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmloudis&layout=compact&theme=algolia&langs_count=6" />
     </a>
-  </p>
+  </p> -->
   <p>
     <a href="https://git.io/streak-stats">
       <img alt="GitHub Streak"
@@ -54,13 +61,6 @@
     </a>
   </p>
 </div>
-
-
-
----
-### Main Projects and Contributions:
- - 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
- - 📽️ Main Projects: 
 
 
 <!---
