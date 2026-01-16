@@ -5,6 +5,7 @@
 - 🏫 Penn State University - M.S. in Computer Science (Expected - Dec. 2029)
 - 🧑‍💼 Software Engineer II @ Comcast
 - 👨‍⚕️ LinkedIn Profile: https://www.linkedin.com/in/jordan-loudis-4856561ba/
+- 📰 Resume: [Resume on LinkedIn](https://www.linkedin.com/in/jordan-loudis-4856561ba/overlay/1768486964548/single-media-viewer/?profileId=ACoAADL_aCUBvbNGfPm4hQ7LFswSQgx4Pz8sT-U)
 - 🖥️ Portfolio Website: https://www.jordanloudis.com
 - 🧑‍🤝‍🧑 Organizations: [NorthstarComm](https://github.com/NorthstarComm)
 
@@ -17,6 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="Perl" alt="Perl" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -25,33 +28,39 @@
 </p>
 </div>
 
-
----
-### :hammer_and_pick: Tools and DevOps:
-<div>
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-</p>
-</div>
-    
 ---
 ### :fire: My GitHub Stats:
-<div>
-<p align="center">
-  [![Jmloudis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmloudis&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  ![jmloudis's Github stats](https://github-readme-stats.vercel.app/api?username=jmloudis&show_icons=true&theme=algolia&line_height=20)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?    username=jmloudis&layout=compact&theme=algolia&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jmloudis&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</p>
+<div align="center">
+  <p>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img alt="Jmloudis's github activity graph"
+           src="https://github-readme-activity-graph.cyclic.app/graph?username=jmloudis&theme=react-dark&hide_border=true" />
+    </a>
+  </p>
+  <p>
+    <img alt="jmloudis's Github stats"
+         src="https://github-readme-stats.vercel.app/api?username=jmloudis&show_icons=true&theme=algolia&line_height=20" />
+  </p>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Top Langs"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmloudis&layout=compact&theme=algolia&langs_count=6" />
+    </a>
+  </p>
+  <p>
+    <a href="https://git.io/streak-stats">
+      <img alt="GitHub Streak"
+           src="https://streak-stats.demolab.com?user=jmloudis&theme=dark&hide_border=true" />
+    </a>
+  </p>
 </div>
-[![Jmloudis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmloudis&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![jmloudis's Github stats](https://github-readme-stats.vercel.app/api?username=jmloudis&show_icons=true&theme=algolia&line_height=20)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmloudis&layout=compact&theme=algolia&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=jmloudis&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ---
 ### Main Projects and Contributions:
- 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
- 📽️ Main Projects: 
+ - 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
+ - 📽️ Main Projects: 
 
 
 <!---
