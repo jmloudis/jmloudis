@@ -9,6 +9,12 @@
 - 🖥️ Portfolio Website: https://www.jordanloudis.com
 
 ---
+### Main Projects/Contributions and Organizations:
+ - 🧑‍🤝‍🧑: Organizations: [NorthstarComm](https://github.com/NorthstarComm)
+ - 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
+ - 📽️ Main Projects:
+
+---
 ### :hammer_and_wrench: Languages and Frameworks:
 <div>
 <p align="center">
@@ -26,14 +32,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </p>
 </div>
-
-
-
----
-### Main Projects/Contributions and Organizations:
- - 🧑‍🤝‍🧑: Organizations: [NorthstarComm](https://github.com/NorthstarComm)
- - 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
- - 📽️ Main Projects: 
 
 ---
 ### :fire: My GitHub Stats:
