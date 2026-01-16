@@ -7,7 +7,6 @@
 - 👨‍⚕️ LinkedIn Profile: https://www.linkedin.com/in/jordan-loudis-4856561ba/
 - 📰 Resume: [Resume on LinkedIn](https://www.linkedin.com/in/jordan-loudis-4856561ba/overlay/1768486964548/single-media-viewer/?profileId=ACoAADL_aCUBvbNGfPm4hQ7LFswSQgx4Pz8sT-U)
 - 🖥️ Portfolio Website: https://www.jordanloudis.com
-- 🧑‍🤝‍🧑 Organizations: [NorthstarComm](https://github.com/NorthstarComm)
 
 ---
 ### :hammer_and_wrench: Languages and Frameworks:
@@ -31,7 +30,8 @@
 
 
 ---
-### Main Projects and Contributions:
+### Main Projects/Contributions and Organizations:
+ - 🧑‍🤝‍🧑: Organizations: [NorthstarComm](https://github.com/NorthstarComm)
  - 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
  - 📽️ Main Projects: 
 
