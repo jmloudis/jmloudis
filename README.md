@@ -1,4 +1,4 @@
-## About Me
+### About Me
 ---
 - 👋 Hi, I’m Jordan Loudis!  
 - 🏫 Penn State University - B.S. in Information, Science and Technology (Dec. 2021)
@@ -35,14 +35,21 @@
 </div>
     
 ---
-### :fire: My GitHub Stats :
+### :fire: My GitHub Stats:
+<div>
+<p align="center">
+  [![Jmloudis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmloudis&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![jmloudis's Github stats](https://github-readme-stats.vercel.app/api?username=jmloudis&show_icons=true&theme=algolia&line_height=20)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?    username=jmloudis&layout=compact&theme=algolia&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jmloudis&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</p>
+</div>
 [![Jmloudis's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jmloudis&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![jmloudis's Github stats](https://github-readme-stats.vercel.app/api?username=jmloudis&show_icons=true&theme=algolia&line_height=20)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmloudis&layout=compact&theme=algolia&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=jmloudis&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
-# Main Projects and Contributions:
+### Main Projects and Contributions:
  🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
  📽️ Main Projects: 
 
