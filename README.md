@@ -1,9 +1,12 @@
 ### About Me
 ---
 - 👋 Hi, I’m Jordan Loudis!  
-- 🏫 Penn State University - B.S. in Information, Science and Technology (Dec. 2021)
-- 🏫 Penn State University - M.S. in Computer Science (Expected - Dec. 2029)
-- 🧑‍💼 Software Engineer II @ Comcast
+- 🏫 Education:
+  - Penn State University: B.S. - Information, Science and Technology (Dec. 2021)
+  - Penn State University: M.S. - Computer Science (Expected - Dec. 2029)
+- 🧑‍💼 Experience:
+  - Software Engineer II @ Comcast: October 2022 - Present
+  - Full-Stack Developer Intern @ Xpanxion: May 2022 - October 2022
 - 👨‍⚕️ LinkedIn Profile: https://www.linkedin.com/in/jordan-loudis-4856561ba/
 - 📰 Resume: [Resume on LinkedIn](https://www.linkedin.com/in/jordan-loudis-4856561ba/overlay/1768486964548/single-media-viewer/?profileId=ACoAADL_aCUBvbNGfPm4hQ7LFswSQgx4Pz8sT-U)
 - 🖥️ Portfolio Website: https://www.jordanloudis.com
