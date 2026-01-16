@@ -7,7 +7,7 @@ esrr
 - 🧑‍💼 Software Engineer II @ Comcast
 - 👨‍⚕️ LinkedIn Profile: https://www.linkedin.com/in/jordan-loudis-4856561ba/
 - 🖥️ Portfolio Website: https://www.jordanloudis.com
-- 
+- 🧑‍🤝‍🧑 Organizations: [NorthstarComm](https://github.com/NorthstarComm)
 - 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph) 
     
 # Github Stats:
