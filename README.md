@@ -15,7 +15,7 @@
 ### Main Projects/Contributions and Organizations:
  - 🧑‍🤝‍🧑: Organizations: [NorthstarComm](https://github.com/NorthstarComm)
  - 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph)
- - 📽️ Main Projects: [code-prep](https://github.com/jmloudis/code-prep)
+ - 📽️ Main Projects: [prep-kit](https://github.com/jmloudis/prep-kit)
 
 ---
 ### :hammer_and_wrench: Languages and Frameworks:
