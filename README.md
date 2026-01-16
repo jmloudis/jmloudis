@@ -2,11 +2,12 @@
 
 esrr
 - 👋 Hi, I’m Jordan Loudis!  
-- 🏫 Penn State University 2021 Graduate - B.S. in Information Systems: Design and Development
-- 🧑‍💼 Software Engineer @ Comcast
-- 🖱️ Hackerrank Profile: https://www.hackerrank.com/16jloudis
-- 💻 LeetCode Profile: https://leetcode.com/jmloudis/
+- 🏫 Penn State University - B.S. in Information, Science and Technology (Dec. 2021)
+- 🏫 Penn State University - M.S. in Computer Science (Expected - Dec. 2029)
+- 🧑‍💼 Software Engineer II @ Comcast
+- 👨‍⚕️ LinkedIn Profile: https://www.linkedin.com/in/jordan-loudis-4856561ba/
 - 🖥️ Portfolio Website: https://www.jordanloudis.com
+- 
 - 🫂 Main Contributions: [github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph) 
     
 # Github Stats:
