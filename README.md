@@ -9,7 +9,6 @@
   - Full-Stack Developer Intern @ Xpanxion: May 2022 - October 2022
 - 👨‍⚕️ LinkedIn Profile: https://www.linkedin.com/in/jordan-loudis-4856561ba/
 - 📰 Resume: [Resume on LinkedIn](https://www.linkedin.com/in/jordan-loudis-4856561ba/overlay/1768486964548/single-media-viewer/?profileId=ACoAADL_aCUBvbNGfPm4hQ7LFswSQgx4Pz8sT-U)
-- 🖥️ Portfolio Website: https://www.jordanloudis.com
 
 ---
 ### Main Projects/Contributions and Organizations:
